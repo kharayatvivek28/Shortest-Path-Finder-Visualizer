@@ -57,6 +57,8 @@ Follow these steps to set up and run the project:
 
 Below are some screenshots of the application in action:
 
+- You can drag, zoom in, and zoom out on the graph visualization for better interaction and analysis.
+
 ![Shortest Path Output](images/output1.png)
 
 ![Shortest Path Output](images/output2.png)
